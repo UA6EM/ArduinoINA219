@@ -13,6 +13,9 @@ calibrate() function fixed to give correct ratings.
 ## gandy92
 * Fix compiling issue due to case sensitivity on linux systems
 
+## UA6EM
+* adaptive ARDUINO IDE > 1.8.9
+
 ## Flavius Bindea
 * More examples
 * added shuntCurrentRaw()
